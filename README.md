@@ -1,9 +1,5 @@
-# ENGG1340 Group 77 Proposal
+# Monopoly Card Game
 ## A C++ Text-Based Implementation of the Monopoly DEAL Card Game
-
-### Members
-Lee, Ka Ying (3035926344)  
-Ng, Churk Hin Jeremy (3035928160)
 
 ------------
 ### Introduction
