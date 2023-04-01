@@ -1,5 +1,5 @@
 # Monopoly Card Game
-## A C++ Text-Based Implementation of the Monopoly DEAL Card Game
+### A C++ Text-Based Implementation of the Monopoly DEAL Card Game
 
 ------------
 ### Introduction
