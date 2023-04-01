@@ -144,5 +144,5 @@ Players are not allowed to rearrange the property by themselves.
 Simply enter "main main" and then "./main" in the project directory. Required inputs at different stages are clearly stated by screen output. 
 
 ------------
-### Sample i/o Files
+### Sample I/O Files
 You may use the given game file to start the game. It allows you to start at the middle of the game rather than starting it all. To use this file, after executing the main program, you should choose to "load data" from "file 1". 
